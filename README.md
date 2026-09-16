@@ -28,7 +28,7 @@ npm run build
 ```
 
 ## Live demo
-Deployment pending
+https://max-volkov-villa-demo.vercel.app
 
 ## Screenshots
 Final screenshots are stored in `../portfolio-assets/villa` after browser QA.
